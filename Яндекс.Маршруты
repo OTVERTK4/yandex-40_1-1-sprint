@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T16:50:33.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B_wAADV6iLhtw7GiHvy4" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-03T16:52:30.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XPdAkmp_QH8rBho_soIU" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6857" dy="4003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1384,7 +1384,7 @@
           <mxGeometry x="2850" y="215" width="165" height="65" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1950" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Время на каршеринге = отношение расстояния к средней скорости автомобиля&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B3FF66;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="2935" y="630" width="176" height="78" as="geometry" />
+          <mxGeometry x="3011" y="562" width="176" height="78" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1951" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Время на собственном авто = отношение расстояния к средней скорости автомобиля&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B3FF66;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="2917" y="927" width="208" height="85" as="geometry" />
@@ -1537,19 +1537,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1988" value="&lt;font color=&quot;#000000&quot;&gt;С 00:01 до 08:00. Скорость = 45 км/ч&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#E6FFCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="2879" y="432" width="173" height="74" as="geometry" />
+          <mxGeometry x="3050" y="419.5" width="173" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1989" value="&lt;font color=&quot;#000000&quot;&gt;С 08:01 до 12:00. Скорость = 30 км/ч&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#E6FFCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="3192" y="414" width="173" height="74" as="geometry" />
+          <mxGeometry x="3270" y="419.37" width="173" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1990" value="&lt;font color=&quot;#000000&quot;&gt;С 12:01 до 18:00. Скорость = 40 км/ч&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#E6FFCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="3317" y="525" width="173" height="74" as="geometry" />
+          <mxGeometry x="3326" y="564" width="173" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1991" value="&lt;font color=&quot;#000000&quot;&gt;С 18:01 до 22:00. Скорость = 25 км/ч&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#E6FFCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="3263" y="643" width="173" height="74" as="geometry" />
+          <mxGeometry x="3263" y="677" width="173" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1992" value="&lt;font color=&quot;#000000&quot;&gt;С 22:01 до 00:00. Скорость = 45 км/ч&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#E6FFCC;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="3158" y="739" width="173" height="74" as="geometry" />
+          <mxGeometry x="3050" y="699" width="173" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1993" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="2Z4143sk3aHVwrveibj1-1950" target="2Z4143sk3aHVwrveibj1-1988" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1626,10 +1626,10 @@
             <mxPoint x="3985.2142857142853" y="534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ADErd9nldGQCi5d2LNcB-1779" value="&lt;span style=&quot;color: rgb(26, 27, 34); font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Если поездка захватывает несколько временных интервалов, алгоритм выбирает скорость автомобиля из того диапазона, в котором поездка началась&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#00FF80;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="ADErd9nldGQCi5d2LNcB-1779" value="&lt;span style=&quot;color: rgb(26, 27, 34); font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Если поездка захватывает несколько временных интервалов, алгоритм выбирает скорость автомобиля из того диапазона, в котором поездка началась&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#00FF80;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="2281" y="623.25" width="311" height="99.5" as="geometry" />
         </mxCell>
-        <mxCell id="ADErd9nldGQCi5d2LNcB-1780" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" edge="1" parent="1" source="1772" target="ADErd9nldGQCi5d2LNcB-1779">
+        <mxCell id="ADErd9nldGQCi5d2LNcB-1780" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1772" target="ADErd9nldGQCi5d2LNcB-1779" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1995.8406961178052" y="645.5" as="sourcePoint" />
             <mxPoint x="2356.764390896921" y="959" as="targetPoint" />
