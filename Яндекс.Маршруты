@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T16:46:00.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UHYngNC-0nonfxsUzwBK" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-03T16:46:23.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="txXTUvgerWJeyOnsoEy4" version="20.0.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6857" dy="4003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1258,7 +1258,7 @@
           <mxGeometry x="1237" y="1433" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1918" value="&lt;font color=&quot;#000000&quot;&gt;Выбор вида транспорта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B3FF66;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1984" y="1241" width="150" height="60" as="geometry" />
+          <mxGeometry x="2044" y="1318" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Z4143sk3aHVwrveibj1-1919" value="&lt;font color=&quot;#000000&quot;&gt;Строится маршрут при выбранных точках &quot;А&quot; и &quot;В&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B3FF66;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1954" y="1071" width="150" height="60" as="geometry" />
